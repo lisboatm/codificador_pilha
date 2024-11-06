@@ -28,8 +28,8 @@ Este programa foi escrito em Python e requer o Python 3.6 ou superior para ser e
 ### Passo 1: Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/codificador_pilha
-cd codificador-pilha
+git clone https://github.com/lisboatm/codificador_pilha.git
+cd codificador_pilha
 ```
 
 ### Passo 2: Executar o Código
